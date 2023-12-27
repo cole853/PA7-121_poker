@@ -11,7 +11,7 @@ poker.c: contains definitions for the functions declared in poker.h.
 
 main.c: contains a main function for the poker game played in the terminal.
 
-#Possible Improvements
+# Possible Improvements
 
 Instructions for entering cards to redraw should be more clear.
 
