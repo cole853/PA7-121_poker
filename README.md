@@ -1,7 +1,7 @@
 # PA7-121_poker
 A game of poker for CPTS 121 programming assignment 7. Completed on 12/1/2020.
 
-This game starts with a menu that allows the player to see the rules, play the game, or exit. Playing the game shows the player the cards they were dealt along with blanks representing cards the opponent (pc) was dealt. After allowing the player to redraw cards the opponents hand is revealed and a winner is determined. Wins, losses and draws are counted and displayed on the screen. 
+This game starts with a menu that allows the player to see the rules, play the game, or exit. Playing the game shows the player the cards they were dealt along with blanks representing cards the opponent (pc) was dealt. After allowing the player to redraw cards the opponents hand is revealed and a winner is determined. Wins, losses and draws are counted and displayed on the screen. (shuffle and deal functions from Deitel & Deitel)
 
 # Three Files Are Required:
 
